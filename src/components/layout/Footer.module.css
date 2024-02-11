@@ -1,0 +1,30 @@
+
+.footerdistributed {
+    background-color: #292c2f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    min-height: 100px;
+    width: 100%;
+    font: normal 16px sans-serif;
+    padding:18px;
+    position:fixed;
+    bottom:0;
+    text-align: center;
+  }
+  
+
+  .footerdistributed a {
+    background-color: #33383b;
+    padding: 5px 10px;
+    font-size: 30px;
+    text-align: center;
+    transition: all 0.25s;
+    justify-items: center;
+    border-radius: 50px;
+    margin: 8px;
+  }
+  .footerdistributed p{margin-top: 18px; font-size: 20px; font-weight: 400;}
+  
+  
+  /* Media Queries */
+  
+  
